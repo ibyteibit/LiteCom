@@ -1,4 +1,4 @@
-# LiteCom IR Communication System – *Engineering Design Class Project* - 1st Place
+# LiteCom IR Communication System – *Engineering Design Class Project* - 1st Place of 19 teams
 ![LiteCom main pic](https://github.com/ibyteibit/LiteCom/blob/main/pics/LiteCom.jpg)
 
 ## Description
