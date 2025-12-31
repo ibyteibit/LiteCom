@@ -1,7 +1,7 @@
 # LiteCom IR Communication System – *Engineering Design Class Project* - 1st Place of 19 teams
 ![LiteCom main pic](https://github.com/ibyteibit/LiteCom/blob/main/pics/LiteCom.jpg)
 <br></br>
-**Project Dates:** Sep 2025 - Dec 2025
+**Project Dates:** Sep - Dec 2025
 
 ## Description
 - An IR-based communication system designed to protect workers on a noisy/dangerous shop floor by limiting movement
