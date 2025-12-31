@@ -6,6 +6,7 @@
 - Users can type a message of 20 chars on the keyboard to be sent to another module across the room
 - Two buttons allow the user to turn and aim the transmit/receive module towards the target device
 - The user can view the last 5 messages received by toggling the up and down arrows
+*Project Dates:* Sep 2025 - Dec 2025
 
 ![LiteCom closeup](https://github.com/ibyteibit/LiteCom/blob/main/pics/LiteComCloseup.jpg)
 
